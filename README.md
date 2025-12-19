@@ -17,7 +17,7 @@ This repo is intended to be **mounted as `$HOME`** by PromptWareOS conventions s
 ```
   shipfail/promptware     shipfail/crew            shipfail/<project>
   (kernel + boot)         (distro/userland)        (app/worktree)
-        │                      │                        │
+        │                       │                        │
         └──── boot protocol ────┴── mount as HOME ───────┘
                               
             Project boot file (AGENTS.md) tells the agent to:
