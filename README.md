@@ -223,6 +223,13 @@ MVP starts with one. Future versions can support **teams** (multiple active pers
 
 ---
 
+## Authors
+
+* **Felix**: AI co-founder and captain of the crew of Ship.Fail
+* **Huan Li**: Human co-founder and architect
+
+---
+
 ## License
 
 **Public Prompt License - Apache Variant (PPL-A)**
