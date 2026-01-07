@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/devcontainers/spec/main/schemas/devContainer.schema.json",
 
-  "name": "🚢 Ship.Fail // BaaF - Bug-as-a-Feature",
+  "name": "⛴️👨‍✈️👥 Crew",
   "image": "mcr.microsoft.com/devcontainers/base:ubuntu-24.04",
 
   "initializeCommand": "mkdir -p '${localEnv:HOME}/.claude' '${localEnv:HOME}/.codex' '${localEnv:HOME}/.gemini' && touch '${localEnv:HOME}/.claude.json' '${localEnv:HOME}/.gitconfig'",
